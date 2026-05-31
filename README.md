@@ -1,12 +1,12 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Wai Yan</h1>
+<h3 align="left">Digital Marketing ကို Tech ဘက်က ကူညီပေးတဲ့သူပါ — ဆိုလိုတာက သင့် marketing ကို tool တွေ၊ automation တွေ၊ data တွေနဲ့ ပိုထိရောက်အောင် လုပ်ပေးတာပါ။</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/MacroPower/wythwin">
+    <img src="https://komarev.com/ghpvc/?username=wythwin" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fblog.waiyanthwin.com">
   </a>
   <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
@@ -14,8 +14,8 @@
   <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  <a href="https://github.com/wythwin?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wythwin?style=flat&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -26,11 +26,9 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :office: &nbsp;I'm currently working at **[Newness]**
+- :office: &nbsp;I'm currently working at **[Get&Start]**
+- :book: &nbsp;Learn more about my sharing on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -122,8 +120,7 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[Newness]: https://www.facebook.com/NewnessAgency "Newness - Branding & Digital Marketing Agency"
+[Get&Start]: https://www.getandstart.com "Get & Start - MarTech Consultation Firm"
+[linkedin]: https://www.linkedin.com/in/waiyanthwin "Wai Yan LinkedIn"
+[blog]: https://blog.waiyanthwin.com/ "My Blog"
