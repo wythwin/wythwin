@@ -29,7 +29,7 @@
 - 🚀 Managing Consultant at **[Get&Start](https://www.getandstart.com)** — MarTech Consulting Firm
 - 🧠 **16+ years** turning marketing problems into tools, automations & dashboards
 - 🌏 Based in **Bangkok, Thailand** 🇹🇭 &nbsp;·&nbsp; From **Myanmar** 🇲🇲
-- 🗣️ I work in **Myanmar · English · Thai**
+- 🗣️ I work in **Remote**
 - ✍️ I write practical Marketing + Tech + AI guides (Myanmar–English mix) on my **[blog](https://blog.waiyanthwin.com)**
 
 ---
