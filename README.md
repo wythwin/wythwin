@@ -18,7 +18,6 @@
   <a href="https://www.waiyanthwin.com"><img src="https://img.shields.io/badge/Portfolio-waiyanthwin.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://blog.waiyanthwin.com"><img src="https://img.shields.io/badge/Blog-MarTech-1E2A78?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/waiyanthwin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=wythwin&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
@@ -29,7 +28,7 @@
 - 🚀 Managing Consultant at **[Get&Start](https://www.getandstart.com)** — MarTech Consulting Firm
 - 🧠 **16+ years** turning marketing problems into tools, automations & dashboards
 - 🌏 Based in **Bangkok, Thailand** 🇹🇭 &nbsp;·&nbsp; From **Myanmar** 🇲🇲
-- 🗣️ I work in **Remote**
+- 🗣️ I work **Remote**
 - ✍️ I write practical Marketing + Tech + AI guides (Myanmar–English mix) on my **[blog](https://blog.waiyanthwin.com)**
 
 ---
@@ -60,6 +59,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Namecheap](https://img.shields.io/badge/Namecheap-DE3910?style=flat&logo=namecheap&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-444444?style=flat&logo=linux&logoColor=white)
 
 **AI**
 
@@ -83,11 +84,11 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wythwin&show_icons=true&theme=tokyonight&hide_border=true&exclude_repo=wythwin" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wythwin&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=wythwin" alt="Top languages">
+  <a href="https://github.com/wythwin"><img src="https://img.shields.io/github/followers/wythwin?style=for-the-badge&logo=github&logoColor=white&color=1E2A78&label=Followers" alt="Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=wythwin&style=for-the-badge&color=FF6B35&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
